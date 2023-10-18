@@ -6,7 +6,7 @@
 
 ML: sklearn, pandas, numpy API: flask Данные: с kaggle - https://www.kaggle.com/c/realestatepriceprediction
 
-Задача: Предсказать цены на недвижемость
+Задача: Предсказать отток данных по телекому Telco Customer Churn
 
 Используемые признаки:
 
