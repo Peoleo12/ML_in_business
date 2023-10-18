@@ -21,7 +21,7 @@ HouseFloor (number)
 
 Клонируем репозиторий и создаем образ
 
-$ git clone https://github.com/Progul/ML_in_business/tree/master/HW_9
+$ git clone https://github.com/Peoleo12/ML_in_business
 
 $ cd Machine_/ML_in_Bussines/HW_9
 
