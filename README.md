@@ -7,16 +7,25 @@
 ML: sklearn, pandas, numpy API: flask Данные: с kaggle - https://www.kaggle.com/c/realestatepriceprediction
 
 Задача: Предсказать цены на недвижимость
+
 Используемые признаки:
 
 description (text)
+
 DistrictId (number)
+
 Rooms (number)
+
 Square (number)
+
 LifeSquare (number)
+
 KitchenSquare (number)
+
 Floor (number)
+
 HouseFloor (number)
+
 Модель: VotingRegressor (RandomForestRegressor, LGBMRegressor)
 
 Клонируем репозиторий и создаем образ
