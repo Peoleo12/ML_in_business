@@ -34,3 +34,4 @@ $ docker build -t rush/gb_docker_price_predictions .
 $ docker run -d -p 8180:8180 -v <your_local_path_to_pretrained_models>:/app/app/models rush/gb_docker_price_predictions
 
 Переходим на localhost:8181
+
